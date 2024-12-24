@@ -60,6 +60,3 @@ A component that displays an image slider with automatic sliding functionality.
 
 This application uses the [TVMaze API](https://www.tvmaze.com/api) to fetch movie data.
 
-## License
-
-This project is licensed under the MIT License.
